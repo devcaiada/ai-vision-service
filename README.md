@@ -1,4 +1,4 @@
-# Reconhecimeno Facial e extração de dados com AI VISION
+# Reconhecimento Facial e extração de dados com AI VISION
 
 Serviço de inteligência artificial de imagens da Azure Microsoft.
 
